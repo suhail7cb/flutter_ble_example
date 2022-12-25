@@ -1,16 +1,8 @@
 # ble_project
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+Flutter project to show all the available BLE devices nearby & connect them to get more informtion about the device
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="378" alt="Screenshot 2022-12-25 at 7 48 56 PM" src="https://user-images.githubusercontent.com/74094936/209471938-b5eac7ce-996c-4b5a-bff4-5d8669cca758.png">
+<img width="387" alt="Screenshot 2022-12-25 at 7 49 26 PM" src="https://user-images.githubusercontent.com/74094936/209471944-8ecfdc71-e74d-45c4-bd38-494d80b06217.png">
