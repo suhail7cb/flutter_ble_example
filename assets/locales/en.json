@@ -1,0 +1,7 @@
+{
+  "bluetooth_devices" : "Bluetooth Devices",
+  "start_scanning_devices": "Start Scanning Devices",
+  "device_detail": "Device Detail",
+  "bluetooth_disabled_message" : "Bluetooth is required, please turn bluetooth ON from setting"
+
+}
